@@ -3,6 +3,9 @@ This is an interactive dashboard based on the online sales of a store in India
 ## Objective
 The owner of the E-commerce store wants us to create an interactive Dashboard to track and analyze their online sales across India.
 
+## Dashboard
+![alt text](https://github.com/HimanshuKesarwani/PowerBI-Dashboards/blob/main/1.%20Madhav%20Ecomm%20Sales/Madhav_sales_snap.JPG?raw=true)
+
 ## Project Learnings
 1. Created an interactive dashboard to track and analyze online sales data.
 2. Used complex parameters to drill down in the worksheet and customization using filters and slicers.
